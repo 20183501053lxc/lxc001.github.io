@@ -1,1 +1,1 @@
-# lxc001.github.io
+随缘记录
